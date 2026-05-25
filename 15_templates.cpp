@@ -26,6 +26,8 @@ using VOIDMAU = void;
 using INTMAU = int;
 using STRINGMAU = std::string; // Para facilitar usar string como parametro, no es necesario poner longitud
 
+// ************************* TEMPLATE *************************
+//Ten presente eso, aqui no fue necesario prototipo funcion porque defin. la funcion antes de llamarla.
 // T es un tipo de dato genérico
 template <class T>
 VOIDMAU sumarNumeros(
@@ -39,6 +41,7 @@ VOIDMAU sumarNumeros(
 
     std::cout << mensaje << ": " << resultado << "\n";
 }
+
 
 int main() {
     sumarNumeros(2, 3.5, "Suma con double");
