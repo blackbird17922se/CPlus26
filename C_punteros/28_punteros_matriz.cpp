@@ -32,7 +32,7 @@
 */
 
 #include <iostream>
-#include "./lab1/mi_lib.h"
+#include "../Z_lab1/mi_lib.h"
 
 using namespace std;
 

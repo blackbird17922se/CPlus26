@@ -1,6 +1,6 @@
 /* paso deparametro por falor y otros por referencia */
 #include <iostream>
-#include "./lab1/mi_lib.h"
+#include "../Z_lab1/mi_lib.h"
 
 // en el prototipo no es necesario poner nombres de variables, SOLO EL TIPO
 void calcular(INTMAU, INTMAU, INTMAU&, INTMAU&);

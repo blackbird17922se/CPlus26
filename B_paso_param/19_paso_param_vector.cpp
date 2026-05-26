@@ -15,7 +15,7 @@
     función C++ no sabe automáticamente cuántos elementos tiene.
 */
 #include <iostream>
-#include "./lab1/mi_lib.h"
+#include "../Z_lab1/mi_lib.h"
 
 
 // Prototipos de funciones.

@@ -18,7 +18,7 @@
     Si usamos new[], debemos liberar con delete[].
 */
 #include <iostream>
-#include "./lab1/mi_lib.h"
+#include "../Z_lab1/mi_lib.h"
 
 using namespace std;
 

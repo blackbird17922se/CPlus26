@@ -7,7 +7,7 @@
     original sera editada.
 */
 #include <iostream>
-#include "./lab1/mi_lib.h"
+#include "../Z_lab1/mi_lib.h"
 
 const INTMAU NUMFILAS = 2;
 const INTMAU NUMCOLUMNAS = 3;
